@@ -1,5 +1,9 @@
 {
-  "hash": "b484f4fc82c7c7346d0b509b15ebecca9a7dd54834688da9cd78988d2378c207",
-  "expiry": "2026-04-04",
-  "note": "VIP_MEMBER_32 - 30 days"
+  "licenses": [
+    {
+      "hash": "b484f4fc82c7c7346d0b509b15ebecca9a7dd54834688da9cd78988d2378c287",
+      "expiry": "2026-04-04",
+      "note": "VIP_MEMBER_32 - 30 days"
+    }
+  ]
 }
