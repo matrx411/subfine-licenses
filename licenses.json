@@ -1,24 +1,9 @@
 {
   "licenses": [
     {
-      "hash": "cf2320800f17dc3db60f651897f839a1420168db65ddff75ce4fa42c5d6a2709",
-      "expiry": "2026-04-04",
+      "hash": "f0083b63111a70c45d38bc678dea5b5ccef1655837f7a5c9b82168e71bad7236",
+      "expiry": "2026-04-06",
       "note": "VIP_MEMBER_1 - 30 days"
-    },
-    {
-      "hash": "39922f7c6d2f7c738422ecc6745267af42c85c30aa52ae7d4ba99ac99c9dadfa",
-      "expiry": "2026-04-06",
-      "note": "VIP_MEMBER_2 - 30 days"
-    },
-    {
-      "hash": "bb55baa46291df6680119e30961fd50ea00fd7e35d6c25008b65317fbae510d4",
-      "expiry": "2026-04-06",
-      "note": "VIP_MEMBER3_ - 30 days"
-    },
-    {
-      "hash": "f079c29b3cf948bf657fdbde7fe1066ea75e5d3e205e4f69eb130448d139a1cd",
-      "expiry": "2026-04-06",
-      "note": "VIP_MEMBER_3 - 30 days"
     }
   ]
 }
