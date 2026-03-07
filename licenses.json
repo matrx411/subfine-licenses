@@ -6,19 +6,9 @@
       "note": "VIP_MEMBER_1 - 30 days"
     },
     {
-      "hash": "d3a39e81fea7e8110c0eebd79e53eeca2dcce68c165fae8c9f3e6e47dbbf0537",
-      "expiry": "2026-04-04",
+      "hash": "39922f7c6d2f7c738422ecc6745267af42c85c30aa52ae7d4ba99ac99c9dadfa",
+      "expiry": "2026-04-06",
       "note": "VIP_MEMBER_2 - 30 days"
-    },
-    {
-      "hash": "321dad1c97795d3cbf4af7f4447678bccdb980bc0970c1cb1fb0977071613435",
-      "expiry": "2026-04-04",
-      "note": "VIP_MEMBER_3 - 30 days"
-    },
-    {
-      "hash": "babfb888f49afe5673fe19166741fdc3b900e1a49159ada05feab22201c1bf90",
-      "expiry": "2026-04-04",
-      "note": "VIP_MEMBER_4 - 30 days"
     }
   ]
 }
