@@ -4,6 +4,11 @@
       "hash": "727e5bd272639d8779e3dee6ec92f9faba198e1dcebff54cbbb6b87be2bef8ea",
       "expiry": "2026-04-20",
       "note": "VIP_MEMBER_1 - 30 days"
+    },
+    {
+      "hash": "1827752197703e9a52f2a60ebf562e06e61efcfed0b56aa3354e7310b436b7d3",
+      "expiry": "2026-04-20",
+      "note": "VIP_MEMBER_2 - 30 days"
     }
   ]
 }
