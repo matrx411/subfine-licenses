@@ -1,14 +1,9 @@
 {
   "licenses": [
     {
-      "hash": "0a447726ec9205828d3828dfcac678f6ac3ca1cf5051589ae3da653d3c860956",
-      "expiry": "2026-04-09",
+      "hash": "727e5bd272639d8779e3dee6ec92f9faba198e1dcebff54cbbb6b87be2bef8ea",
+      "expiry": "2026-04-20",
       "note": "VIP_MEMBER_1 - 30 days"
-    },
-    {
-      "hash": "acb753d538e1b84bb3d5324f8510410ee23aec34506366d57bd8a4b43d79fb36",
-      "expiry": "2026-04-09",
-      "note": "VIP_MEMBER_2 - 30 days"
     }
   ]
 }
